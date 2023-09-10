@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/wpbones/WPBones/wiki/images/wp-bones-logo-little.png" alt="WP Bones Logo" />
+  <img src="https://github.com/wpbones/WPBones/wiki/images/wp-bones-logo-little.png" alt="WP Bones Logo" data-author="Rahat Baksh" />
 </p>
 
 <p align="center">
